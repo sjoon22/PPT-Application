@@ -43,7 +43,7 @@ pipeline/
 
 
 
-<video src="https://github.com/user-attachments/assets/fc5893b8-8606-4b4d-a7ea-9df53e28ff85" width="600" controls></video>
+<video src="https://github.com/user-attachments/assets/fc5893b8-8606-4b4d-a7ea-9df53e28ff85" width="400" controls></video>
 
 
 
