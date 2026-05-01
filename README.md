@@ -41,7 +41,7 @@ pipeline/
 
 ## Demo
 
-[Demo Video](https://github.com/sjoon22/PPT-Application/raw/main/imgs/demo.mp4)
+https://github.com/sjoon22/PPT-Application/raw/main/images/demo.mp4
 
 
 ------
