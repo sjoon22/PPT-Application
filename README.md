@@ -1,4 +1,3 @@
-<img width="400" height="218" alt="demo" src="https://github.com/user-attachments/assets/246d3356-9236-4a42-a4c8-be6f914a5af8" />
 # PPT-Application: AI-Powered Position / Pose Reconstruction System
 
 ### 🚀 Project Summary
@@ -44,7 +43,7 @@ pipeline/
 
 
 
-<video src="https://github.com/user-attachments/assets/fc5893b8-8606-4b4d-a7ea-9df53e28ff85" width="800" controls></video>
+<video src="https://github.com/user-attachments/assets/fc5893b8-8606-4b4d-a7ea-9df53e28ff85" width="600" controls></video>
 
 
 
