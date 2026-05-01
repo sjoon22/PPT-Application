@@ -44,9 +44,7 @@ pipeline/
 
 
 
-https://github.com/user-attachments/assets/fc5893b8-8606-4b4d-a7ea-9df53e28ff85
-
-<img width="400" height="218" alt="demo" src="https://github.com/user-attachments/assets/d6eb33ff-f611-431a-96cc-165e59f02cb4" />
+<video src="https://github.com/user-attachments/assets/fc5893b8-8606-4b4d-a7ea-9df53e28ff85" width="800" controls></video>
 
 
 
